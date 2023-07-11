@@ -1,4 +1,4 @@
-Google Search Console Report in LOOKER STUDIO
+**Google Search Console Report in LOOKER STUDIO**
 
 Report Link - https://lookerstudio.google.com/reporting/6994b840-30a5-4fae-a455-424f9d9e963f
 
